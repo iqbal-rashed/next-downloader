@@ -20,16 +20,32 @@ Next features:
 
 * Download entire playlist with a single click.
 
+### Extension
+<a href="https://github.com/iqbal-rashed/next-downloader-extension">
+Visit Repo
+</a>
+ | 
+<a href="https://addons.mozilla.org/en-US/firefox/addon/next-downloader/">
+Get it to firefox addons store
+</a>
+### Website
 <a href="https://nextdownloader.web.app/">
 Visit Website
 </a>
 
-### ScreenShots
+## ScreenShots
 <img width="50%" src="./img/ss1.png">
 <img width="50%" src="./img/ss2.png">
 
 <br>
-<br>
+
+
+## Contribution
+If you want to contribute or report any bug, you welcome
+
+
+Don't forget to give a star 😍
+
 
 
 

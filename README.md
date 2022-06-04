@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="./logo.png">
+  <img width="150" src="./img/logo.png">
 </p>
 <h1 align="center"> Next Downloader </h1>
 <p align="center">
@@ -20,9 +20,16 @@ Next features:
 
 * Download entire playlist with a single click.
 
+<a href="https://nextdownloader.web.app/">
+Visit Website
+</a>
+
+### ScreenShots
+<img width="50%" src="./img/ss1.png">
+<img width="50%" src="./img/ss2.png">
+
+<br>
 <br>
 
-<a href="https://mail.google.com/">
-<img width="250" src="./download.png">
-</a>
+
 
